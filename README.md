@@ -43,8 +43,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-  1. Login as agent
-Once an end user submits a ticket, the appropriate agent will be able to respond to that ticket. For our agent, Timmy Jones, to work the ticket from Peter Jones. He must login to his OsTicket account using this URL: http://localhost/osTicket/scp/login.php. Once he is logged in, he will be able to immediately see his open tickets, including the one from Peter Jones. When Timmy clicks on Peter's ticket he would be able to do things like, modify the priority level, transfer to a different department, change to SLA Plan or Due Date, etc. If Timmy wishes to post notes regarding the ticket that he does not want the end user to see, if can post it under the ta 'Internal Notes'. He can also provide additional notes to Timmy under the tab Post Reply.
+  1. Login as an admin/analyst with the appropriate credentials to work this specific ticket.
+  2. Once he is logged in, he will be able to immediately see his open tickets, including the one from Bill Harris in the Dashboard. 
+  3. You, the analyst, will be able to do things like, modify the priority level, transfer to a different department, change to SLA Plan or Due Date, etc. You can post notes regarding the ticket that you don't want the end user to see, by posting it under  'Internal Notes'. You can also provide additional notes to the end user (Bill) under the tab 'Post Reply'.
 </p>
 <br />
 
@@ -52,6 +53,6 @@ Once an end user submits a ticket, the appropriate agent will be able to respond
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-If the Peter's problem has been resolved, then on the ticket you can scroll down to 'Ticket Status' and select 'Resolved' from the drop down menu. If you would like to close the ticket without resolving the issue, you could just select 'Close'.
+4. If the Bill's problem has been resolved, then, on the ticket, scroll down to 'Ticket Status' and select 'Resolved' from the drop down menu. If you would like to close the ticket without resolving the issue, you could just select 'Close'.
 </p>
 <br />
