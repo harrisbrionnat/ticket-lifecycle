@@ -21,7 +21,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 ## Lifecycle Stages
 <p align="center">
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://imgur.com/tyGg0RO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 ### 1. Create a Ticket as a User
@@ -34,17 +34,17 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 ### 2. Login as Admin/Analyst
 <p align="center">
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://imgur.com/dAdbhm1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 1. Login with the appropriate admin/analyst credentials.
-2. View open tickets, including Bill Harris' ticket in the Dashboard.
+2. View open tickets, including Bill Harris' ticket in the Tickets tab.
 3. Modify the ticket by adjusting the priority level, transferring it to a different department, or changing the SLA Plan or Due Date. 
    - You can add internal notes that are not visible to the end user under 'Internal Notes' and provide additional notes for the end user under 'Post Reply'.
 
 ### 3. Resolving the Ticket
 <p align="center">
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://imgur.com/yzYi1uE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 1. If Bill's problem is resolved, scroll down to 'Ticket Status' and select 'Resolved' from the dropdown menu.
