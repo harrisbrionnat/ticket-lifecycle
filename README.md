@@ -30,15 +30,20 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-For an end-user to submit a ticket, they must be logged into this URL: http://localhost/osTicket/.
-If a user named Peter Jones wants to submit a ticket, he must provide his email adress and full name.  He must select a help topic and then click 'Create Ticket'. Once he creates a ticket, he will need to specify information about the problem in the issue summary. The he must click create ticket again.
-</p>
+1. Create a ticket as a User by logging  into this URL: http://localhost/osTicket
+  <br>
+2. Enter the user credentials created in the Post Installation repository (Bill Harris)
+3. Provide the user's full name and email. 
+4. Select a help topic and then click 
+5. Provide a description of the problem.
+6. Click 'Create Ticket'.
 <br />
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+  1. Login as agent
 Once an end user submits a ticket, the appropriate agent will be able to respond to that ticket. For our agent, Timmy Jones, to work the ticket from Peter Jones. He must login to his OsTicket account using this URL: http://localhost/osTicket/scp/login.php. Once he is logged in, he will be able to immediately see his open tickets, including the one from Peter Jones. When Timmy clicks on Peter's ticket he would be able to do things like, modify the priority level, transfer to a different department, change to SLA Plan or Due Date, etc. If Timmy wishes to post notes regarding the ticket that he does not want the end user to see, if can post it under the ta 'Internal Notes'. He can also provide additional notes to Timmy under the tab Post Reply.
 </p>
 <br />
